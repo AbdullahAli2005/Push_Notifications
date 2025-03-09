@@ -51,12 +51,4 @@ class DefaultFirebaseOptions {
         );
     }
   }
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDU30-5BBX_EVpSD8NZAjUyRc-lpqvd4qA',
-    appId: '1:520597306579:android:6acd31b43885aa065e2826',
-    messagingSenderId: '520597306579',
-    projectId: 'pushnotification-c219b',
-    storageBucket: 'pushnotification-c219b.firebasestorage.app',
-  );
 }
